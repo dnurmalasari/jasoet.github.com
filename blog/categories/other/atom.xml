@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: other | Deny Prasetyo's Blog]]></title>
+  <link href="http://jasoet.github.com/blog/categories/other/atom.xml" rel="self"/>
+  <link href="http://jasoet.github.com/"/>
+  <updated>2012-08-28T12:22:17+07:00</updated>
+  <id>http://jasoet.github.com/</id>
+  <author>
+    <name><![CDATA[Deny Prasetyo]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello Octopress]]></title>
+    <link href="http://jasoet.github.com/other/hello-octopress/"/>
+    <updated>2012-08-28T09:52:00+07:00</updated>
+    <id>http://jasoet.github.com/other/hello-octopress</id>
+    <content type="html"><![CDATA[<p>Test dari Markdown</p>
+]]></content>
+  </entry>
+  
+</feed>
