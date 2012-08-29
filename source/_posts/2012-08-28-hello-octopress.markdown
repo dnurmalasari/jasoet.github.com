@@ -7,3 +7,6 @@ categories: other
 ---
 
 Test dari Markdown
+1. Git
+2. Install Ruby
+2. Clone Repository Octopress
