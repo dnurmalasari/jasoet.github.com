@@ -4,7 +4,7 @@
   <title><![CDATA[Deny Prasetyo's Blog]]></title>
   <link href="http://jasoet.github.com/atom.xml" rel="self"/>
   <link href="http://jasoet.github.com/"/>
-  <updated>2012-08-28T12:22:17+07:00</updated>
+  <updated>2012-08-29T12:54:07+07:00</updated>
   <id>http://jasoet.github.com/</id>
   <author>
     <name><![CDATA[Deny Prasetyo]]></name>
@@ -14,11 +14,40 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Instalasi Ruby]]></title>
+    <link href="http://jasoet.github.com/instalasi-ruby/"/>
+    <updated>2012-08-29T11:00:00+07:00</updated>
+    <id>http://jasoet.github.com/instalasi-ruby</id>
+    <content type="html"><![CDATA[<ol>
+<li>Instalasi Menggunakan RVM</li>
+<li>Instalasi Menggunakan Ruby Installer for Windows</li>
+</ol>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Instalasi Git]]></title>
+    <link href="http://jasoet.github.com/instalasi-git/"/>
+    <updated>2012-08-29T11:00:00+07:00</updated>
+    <id>http://jasoet.github.com/instalasi-git</id>
+    <content type="html"><![CDATA[<ol>
+<li>Instalasi di Linux (Ubuntu)</li>
+<li>Instalasi di Windows</li>
+</ol>
+
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Hello Octopress]]></title>
     <link href="http://jasoet.github.com/other/hello-octopress/"/>
     <updated>2012-08-28T09:52:00+07:00</updated>
     <id>http://jasoet.github.com/other/hello-octopress</id>
-    <content type="html"><![CDATA[<p>Test dari Markdown</p>
+    <content type="html"><![CDATA[<p>Test dari Markdown
+1. Git
+2. Install Ruby
+2. Clone Repository Octopress</p>
 ]]></content>
   </entry>
   
